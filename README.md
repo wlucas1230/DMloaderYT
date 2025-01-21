@@ -1,7 +1,8 @@
 # DMloaderYT
 O DMloaderYT foi desenvolvido utilizando a linguagem Python, com a integração das ferramentas yt-dlp e ffmpeg, com o objetivo de permitir o download de vídeos e músicas da internet, oferecendo uma interface simples e eficaz para facilitar o processo.
 
-⚠️ **TERMO DE RESPONSABILIDADE** ⚠️\n\n
+⚠️ **TERMO DE RESPONSABILIDADE** ⚠️
+
 Ao utilizar este programa, você concorda que é totalmente responsável pelo uso do mesmo, inclusive se baixar conteúdo protegido por direitos autorais. Não nos responsabilizamos pelo seu uso!
 
 que são fornecidas sob suas respectivas licenças. Todos os direitos reservados aos seus criadores.
