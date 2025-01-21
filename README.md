@@ -1,35 +1,35 @@
-# DMloaderYT
-O DMloaderYT foi desenvolvido utilizando a linguagem Python, com a integração das ferramentas yt-dlp e ffmpeg, com o objetivo de permitir o download de vídeos e músicas da internet, oferecendo uma interface simples e eficaz para facilitar o processo.
+<h1>DMloaderYT</h1>
+<p>O DMloaderYT foi desenvolvido utilizando a linguagem Python, com a integração das ferramentas yt-dlp e ffmpeg, com o objetivo de permitir o download de vídeos e músicas da internet, oferecendo uma interface simples e eficaz para facilitar o processo.</p>
 
-⚠️ **TERMO DE RESPONSABILIDADE** ⚠️
+<h2>⚠️ <strong>TERMO DE RESPONSABILIDADE</strong> ⚠️</h2>
+<p>Ao utilizar este código, você concorda que é totalmente responsável pelo uso do mesmo, inclusive se baixar conteúdo protegido por direitos autorais. Não nos responsabilizamos pelo seu uso!</p>
+<p>Além disso, o programa utiliza ferramentas de terceiros:</p>
+<ul>
+    <li>yt-dlp (<a href="https://github.com/yt-dlp/yt-dlp">https://github.com/yt-dlp/yt-dlp</a>)</li>
+    <li>ffmpeg (<a href="https://ffmpeg.org/">https://ffmpeg.org/</a>)</li>
+</ul>
+<p>Que são fornecidas sob suas respectivas licenças. Todos os direitos reservados aos seus criadores.</p>
 
-Ao utilizar este programa, você concorda que é totalmente responsável pelo uso do mesmo, inclusive se baixar conteúdo protegido por direitos autorais. Não nos responsabilizamos pelo seu uso!
+<h2>Registro de alterações:</h2>
+<ul>
+    <li><strong>v1.0b:</strong> Inclusão das funções 'Baixar Áudio MP3' e 'Baixar Vídeo MP4'.</li>
+    <li><strong>v1.1b:</strong> Inclusão das funções 'Baixar Playlist em MP3' e 'Baixar Playlist em MP4'.</li>
+    <li><strong>v1.2b:</strong> Inclusão da função 'Baixar Áudio WAV - Alta Qualidade'.</li>
+    <li><strong>v1.3b:</strong> Inclusão das funções 'Alterar Pasta de Download' e 'Sobre'.</li>
+    <li><strong>v1.3b:</strong> Ajustes na interface gráfica.</li>
+    <li><strong>v1.3b:</strong> Inclusão de mensagens de tempo, pasta salva e retorno ao menu em 5 segundos.</li>
+    <li><strong>v1.3b:</strong> Ajuste na configuração do Termo de Uso e função de Encerramento.</li>
+    <li><strong>v1.4:</strong> Criação da interface gráfica (GUI).</li>
+    <li><strong>v1.4:</strong> Alteração do ícone do aplicativo.</li>
+    <li><strong>v1.4:</strong> Separação da interface de log.</li>
+</ul>
 
-que são fornecidas sob suas respectivas licenças. Todos os direitos reservados aos seus criadores.
+<h2>Direitos autorais:</h2>
+<p>Este projeto utiliza ferramentas de código aberto, cujos direitos autorais são mantidos pelos respectivos criadores:</p>
+<ul>
+    <li>yt-dlp (<a href="https://github.com/yt-dlp/yt-dlp">https://github.com/yt-dlp/yt-dlp</a>)</li>
+    <li>ffmpeg (<a href="https://ffmpeg.org/">https://ffmpeg.org/</a>)</li>
+</ul>
 
-Registro de alterações:
-        v1.0b:
-            - Inclusão das funções 'Baixar Áudio MP3' e 'Baixar Vídeo MP4'.
-        v1.1b:
-            - Inclusão das funções 'Baixar Playlist em MP3' e 'Baixar Playlist em MP4'.
-        v1.2b:
-            - Inclusão da função 'Baixar Áudio WAV - Alta Qualidade'.
-        v1.3b:
-            - Inclusão das funções 'Alterar Pasta de Download' e 'Sobre'.
-            - Ajustes na interface gráfica.
-            - Inclusão de mensagens de tempo, pasta salva e retorno ao menu em 5 segundos.
-            - Ajuste na configuração do Termo de Uso e função de Encerramento.
-        v1.4:
-            - Criação da interface gráfica (GUI).
-            - Alteração do ícone do aplicativo.
-            - Separação da interface de log.
-
-Direitos autorais:
-  Este projeto utiliza ferramentas de código aberto, cujos direitos autorais são mantidos pelos respectivos criadores:
-
-  yt-dlp (https://github.com/yt-dlp/yt-dlp)
-  ffmpeg (https://ffmpeg.org/)
-
-  Sites suportados:
-    Para consultar a lista de sites suportados pelo yt-dlp, acesse: https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md
-        
+<h2>Sites suportados:</h2>
+<p>Para consultar a lista de sites suportados pelo yt-dlp, acesse: <a href="https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md">https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md</a></p>
