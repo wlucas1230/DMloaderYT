@@ -29,6 +29,9 @@
     <li><strong>v1.5.1:</strong>Otimizado os caminhos dos arquivos necessários na pasta "data".</li>
     <li><strong>v1.5.1:</strong>Inclusão da pasta data, podendo agora executar o arquivo ".py" sem necessitar de editar os caminhos manualmente.</li>
     <li><strong>v1.5.1:</strong>Corrigido o erro que impedia de executar alguns funções na versão compilada ".exe".</li>
+    <li><strong>v1.6:</strong>Corrigido ícones das janelas (utilizados da pasta data).</li>
+    <li><strong>v1.6:</strong>Correção da label (título da janela de link).</li>
+    <li><strong>v1.6:</strong>Melhorias no processo de verificação de arquivos necessários (agora o programa avisa quando arquivos estão ausentes na pasta data).</li>
 </ul>
 
 <h2>Direitos autorais:</h2>
