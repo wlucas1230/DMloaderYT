@@ -22,6 +22,13 @@
     <li><strong>v1.4:</strong> Criação da interface gráfica (GUI).</li>
     <li><strong>v1.4:</strong> Alteração do ícone do aplicativo.</li>
     <li><strong>v1.4:</strong> Separação da interface de log.</li>
+    <li><strong>v1.5:</strong>Remoção de ícones que causavam problemas de execução.</li>
+    <li><strong>v1.5:</strong>Otimização do código com a exclusão de partes desnecessárias para um desempenho mais eficiente.</li>
+    <li><strong>v1.5:</strong>O programa agora está mais leve e com menor probabilidade de erros devido à inclusão de todas as dependências no .exe.</li>
+    <li><strong>v1.5.1:</strong>Corrida conversão de formatos seguindo os itens do menu.</li>
+    <li><strong>v1.5.1:</strong>Otimizado os caminhos dos arquivos necessários na pasta "data".</li>
+    <li><strong>v1.5.1:</strong>Inclusão da pasta data, podendo agora executar o arquivo ".py" sem necessitar de editar os caminhos manualmente.</li>
+    <li><strong>v1.5.1:</strong>Corrigido o erro que impedia de executar alguns funções na versão compilada ".exe".</li>
 </ul>
 
 <h2>Direitos autorais:</h2>
